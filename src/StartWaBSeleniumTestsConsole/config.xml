@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<config>
+  <!-- dll for run -->
+  <path-dll>C:\softdocs\work\scripts\dll\SeleniumTestSuitWaB.dll</path-dll>
+  <!-- NUNIT (console, GUI) -->
+  <path-nunit>C:\Program Files\NUnit 2.6.2\bin\nunit.exe</path-nunit>
+  <!-- result file xsl -->
+  <path-xsl>../../TestResult.xsl</path-xsl>
+  <!-- result file xml -->
+  <name-xml>TestResult.xml</name-xml>
+  <!-- some options --> 
+  <option></option>
+</config>
